@@ -42,4 +42,4 @@ Front-end Development || Tech enthusiast || 14y/o
 <a href="https://github.com/Muzzammmill"><img src="images/github.jpg" width="60" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammmill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzzammmill&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzzammmill&show_icons=true&theme=onedark)  
