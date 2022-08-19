@@ -33,8 +33,11 @@ Front-end Development || Tech enthusiast || 14y/o
 <a href="https://git-scm.com/"><img src="images/git.jpg" width="60" title="Git" />
 </code>
 
+
 #### Interested in
-<a href="">
+<code>
+<a href="https://tailwindcss.com/"><img src="images/tailwind.png" width="60" title="Tailwind CSS" />
+</code>
 
 #### Connect with me 
 <a href="https://www.linkedin.com/in/muzzammil-idris-2b80b6244/"><img src="images/linkedin.png" width="60" /></a>
