@@ -39,7 +39,7 @@ Front-end Development || Tech enthusiast || 14y/o
 <a href="https://tailwindcss.com/"><img src="images/tailwind.png" width="60" title="Tailwind CSS" />
 </code>
 <code>
-<a href="https://tailwindcss.com/"><img src="images/cyber1.jfif" width="60" height="150" title="Cyber Security" />
+<a href="https://tailwindcss.com/"><img src="images/cyber1.jfif" width="60" height="50" title="Cyber Security" />
 </code>
 
 #### Connect with me 
