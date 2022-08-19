@@ -11,7 +11,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzzammmill&show_icons=true)  
+
 
  #### My Core Languages, Frameworks and Tools I use.
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
@@ -29,7 +29,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 #### Connect with me 
 <a href="https://www.linkedin.com/in/muzzammil-idris-2b80b6244/"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/IdrisMuzzammil"><img src="images/twitter.png" width="60" /></a>
+<a href="https://github.com/Muzzammmill"><img src="images/github.jpg" width="60" /></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Muzzammmill)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammmill)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammmill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzzammmill&show_icons=true)  
