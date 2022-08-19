@@ -4,15 +4,6 @@ Front-end Development || Tech enthusiast || 14y/o
 
 ![](/images/github-header-image.png)
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
-
  #### My Core Languages, Frameworks and Tools I use.
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
