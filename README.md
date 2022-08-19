@@ -38,6 +38,9 @@ Front-end Development || Tech enthusiast || 14y/o
 <code>
 <a href="https://tailwindcss.com/"><img src="images/tailwind.png" width="60" title="Tailwind CSS" />
 </code>
+<code>
+<a href="https://tailwindcss.com/"><img src="images/cyber.jfif" width="60" title="Cyber Security" />
+</code>
 
 #### Connect with me 
 <a href="https://www.linkedin.com/in/muzzammil-idris-2b80b6244/"><img src="images/linkedin.png" width="60" /></a>
