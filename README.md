@@ -35,8 +35,7 @@ Front-end Development || Tech enthusiast || 14y/o
 
 
 #### Interested in
-<a href="https://tailwindcss.com/"><img src="images/tailwind.png" width="60" title="Tailwind CSS" />
-
+<a href="https://tailwindcss.com/"><img src="images/tailwind.png" width="60" title="Tailwind CSS" />  
 <a href="https://www.cisa.gov/cybersecurity"><img src="images/cyber.jfif" width="60" title="Cyber Security" />
 
 #### Connect with me 
