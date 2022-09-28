@@ -39,7 +39,7 @@ Front-end Development || Tech enthusiast || 14y/o
 <a href="https://www.cisa.gov/cybersecurity"><img src="images/cyber.jfif" width="60" title="Cyber Security" />
 
 #### Connect with me 
-<a href="https://www.linkedin.com/in/muzzammil-idris-2b80b6244/"><img src="images/linkedin.png" width="60" /></a>
+<a href="https://www.linkedin.com/in/muzzammil-idris/"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/IdrisMuzzammil"><img src="images/twitter.png" width="60" /></a>
 <a href="https://github.com/Muzzammmill"><img src="images/github.jpg" width="60" /></a>
 
