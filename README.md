@@ -1,16 +1,7 @@
 ### Hi there 👋, my name is Idris Muzzammil
 
 Front-end Development || Tech enthusiast || 14y/o
-
-![](/images/github-header-image.png)
-
- #### My Core Languages, Frameworks and Tools I use.
-<code>
-<a href="https://html.com/"><img src="images/html.jpg" width="60" title="HTML" /></a>
-</code>
-
-<code>
-<a href="https://css-tricks.com/"><img src="images/css.jpg" width="60" title="CSS" /></a>
+" width="60" title="CSS" /></a>
 </code>
 
 <code>
