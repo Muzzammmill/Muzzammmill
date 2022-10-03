@@ -40,7 +40,7 @@ Front-end Development || Tech enthusiast || 14y/o
 
 #### Connect with me 
 <a href="https://www.linkedin.com/in/muzzammil-idris/"><img src="images/linkedin.png" width="60" /></a>
-<a href="https://twitter.com/IdrisMuzzammil"><img src="images/twitter.png" width="60" /></a>
+<a href="https://twitter.com/just_Muzz"><img src="images/twitter.png" width="60" /></a>
 <a href="https://github.com/Muzzammmill"><img src="images/github.jpg" width="60" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammmill&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
