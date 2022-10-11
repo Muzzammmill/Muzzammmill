@@ -6,7 +6,7 @@ Front-end Development || Tech enthusiast || 14y/o
 
  #### My Core Languages, Frameworks and Tools I use.
 <code>
-<a href="https://html.com/" target="blank"><img src="images/html.jpg" width="60" title="HTML" /></a>
+<a href="https://html.com/" target="_blank"><img src="images/html.jpg" width="60" title="HTML" /></a>
 </code>
 
 <code>
