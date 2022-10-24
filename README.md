@@ -5,6 +5,7 @@
 ![](/images/github-header-image.png)
 
  #### My Core Languages, Frameworks and Tools I use.
+ <code style="background-image: url(https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=body&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)">
 <code>
 <a href="https://html.com/" target="_blank"><img src="images/html.jpg" width="60" title="HTML" /></a>
 </code>
@@ -32,6 +33,7 @@
 <code>
 <a href="https://git-scm.com/" target="_blank"><img src="images/git.jpg" width="60" title="Git" />
 </code>
+ </code>
 
 
 #### Interested in
