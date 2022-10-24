@@ -45,6 +45,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammmill&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzzammmill&show_icons=true&theme=radical)  
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling">
