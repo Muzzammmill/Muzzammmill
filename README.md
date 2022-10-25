@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, my name is Idris Muzzammil</h1>
 
-<p align="center">Front-end Development || Tech enthusiast || 14y/o</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&pause=1000&color=C9D1D9&center=true&vCenter=true&width=435&lines=Front-end+developer;Tech+enthusiast;Fourteen)](https://git.io/typing-svg)
 
 ![](/images/github-header-image.png)
 
