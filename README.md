@@ -4,7 +4,7 @@
 
 ![](/images/github-header-image.png)
 
- #### My Core Languages, Frameworks and Tools I use.
+ #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&pause=100&color=C9D1D9&width=500&lines=My+core+Languages%3A;Frameworks+I+use%3A;Tools+I+use%3A)](https://git.io/typing-svg)
 <code>
 <a href="https://html.com/" target="_blank"><img src="images/html.jpg" width="60" title="HTML" /></a>
 </code>
