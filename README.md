@@ -41,7 +41,7 @@
 #### Connect with me 
 <a href="https://www.linkedin.com/in/muzzammil-idris/"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/just_Muzz"><img src="images/twitter.png" width="60" /></a>
-<a href="https://github.com/Muzzammmill"><img src="images/github.jpg" width="60" /></a>
+<a href="https://github.com/just-Muzz"><img src="images/github.jpg" width="60" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammmill&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzzammmill&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=just-Muzz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=just-Muzz&show_icons=true&theme=radical)  
